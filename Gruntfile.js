@@ -9,7 +9,7 @@ module.exports = function(grunt) {
     var cfg = {
         src: 'app/',
         serverHost: '127.0.0.1',
-        serverPort: 8000,
+        serverPort: 8800,
         livereload: true
     };
 

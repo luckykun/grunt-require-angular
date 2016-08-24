@@ -1,7 +1,20 @@
 # grunt-require-angular
-一个简易的基于`grunt+require+angular`完整的前端工程项目。down下来运行`grunt`命令就可以直接看到效果
+一个简易的基于`grunt+require+angular`完整的前端工程项目。
 
+down下来运行以下命令就可以直接看到效果：
 
+```js
+npm install grunt -g
+npm install grunt-init -g
+npm install   //安装依赖
+grunt  //启动服务
+```
+
+最后页面上的结果是（其余功能可以自行开发）：
+
+```js
+hello, world
+```
 
 现在要做到前端项目独立，这时候为了项目便于管理维护，我们就需要项目化，工程化，开发规范，自动化压缩混淆，自动化发布，前端优化等等。
 
@@ -11,5 +24,3 @@
 - angularJs: js前端MVC框架，支持依赖注入、双向绑定等主要特性。
 
 这几个库是现在中大型前端项目比较适合的搭配，很有必要去学习并掌握他们。
-
-
