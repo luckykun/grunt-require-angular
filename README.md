@@ -1,11 +1,10 @@
 # grunt-require-angular
-一个简易的基于`grunt+require+angular`完整的前端工程项目。
+一个简易的基于`grunt+require+angular`完整的前端工程项目。搭建教程可以点这里，[前后端分离之前端项目构建（grunt+require+angular）](http://luckykun.com/work/2016-05-02/grunt-angular.html)
 
 down下来运行以下命令就可以直接看到效果：
 
 ```js
 npm install grunt -g
-npm install grunt-init -g
 npm install   //安装依赖
 grunt  //启动服务
 ```
